@@ -13,10 +13,10 @@ $ git clone https://github.com/kinoman34/palindromeTest.git
 $ cd palindromeTest
 $ php composer.phar dump-autoload
 ```
-# В классе поиска реализованы 2 функци поиска палиндромов общая и фнукция поиска Манакера, для переключения раскоментируйте нужную ф-ю
+# В классе поиска реализованы 2 функци поиска палиндромов общая и функция поиска Манакера, для переключения раскоментируйте нужную
 
 ```php
-// src/lib/SearchController.php:27
+// src/SearchController.php:27
 
 public function doSearching()
 {
